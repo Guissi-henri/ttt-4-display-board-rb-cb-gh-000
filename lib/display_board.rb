@@ -2,7 +2,7 @@
 # out the current state.
 board = ["", " ", " ", " ", " ", " ", " ", " ", " "]
 
-def display_board(array)
+def display_board(board)
   puts array
 end
 
