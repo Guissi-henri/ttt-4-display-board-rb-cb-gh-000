@@ -3,7 +3,7 @@
 board = ["", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def display_board(board)
-  puts array
+  puts board
 end
 
 display_board(board)
